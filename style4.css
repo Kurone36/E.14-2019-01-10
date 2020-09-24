@@ -1,0 +1,44 @@
+body {
+	font-family: Helvetica;
+	padding: 0px;
+	margin: 0px;
+}
+
+#baner {
+	background-color: DarkCyan;
+	text-align: center;
+	padding: 20px;
+}
+
+#formularz {
+	background-color: LightSeaGreen;
+	text-align: center;
+	padding: 60px;
+}
+
+#pl, #ps {
+	background-color: Teal;
+	color: white;
+	text-align: center;
+	height: 350px;
+	width: 25%;
+	float: left;
+}
+
+#pp {
+	background-color: Teal;
+	height: 350px;
+	width: 50%;
+	float: left;
+}
+
+#stopka {
+	background-color: DarkCyan;
+	color: white;
+	padding: 40px;
+	clear: both;
+}
+
+ul {
+	border: 4px dotted rgb(127,255,212);
+}
